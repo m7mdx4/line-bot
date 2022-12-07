@@ -1,0 +1,19 @@
+{
+  "name": "By-BrokenTuber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "author": "BrokenTuber",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord.js": "^12.3.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
